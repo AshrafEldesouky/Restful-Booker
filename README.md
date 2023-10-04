@@ -33,7 +33,7 @@ Secure Booking: Implement secure and encrypted transactions for guest informatio
 To set up the Restful-Booker application locally, follow these steps:
 
 1. Clone the repository:
-*   git clone https://github.com/Shady1997/XYZ-Bank.git
+*   git clone https:https://github.com/AshrafEldesouky/Restful-Booker.git
 2. Navigate to the project directory:
 *   cd Restful-Booker
 3. Install dependencies:
