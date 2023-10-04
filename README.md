@@ -26,6 +26,7 @@ Restful-Booker is a booking application that provides various booking services a
 
 
 Availability Checking: Verify the availability of rooms or accommodations for specific dates.
+
 Secure Booking: Implement secure and encrypted transactions for guest information and payment processing during the booking process.
 
 ## Installation
